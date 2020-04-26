@@ -12,7 +12,7 @@ The repo is divided into the following structure:
 Open terminal and perform the following steps.
 1. Clone the repository
 ```
-git clone
+git clone https://github.com/aneesh404/Flair-detector.git
 ```
 2. Install the required libraries
 ```
@@ -41,7 +41,7 @@ flask run
 |                |Model used                          | Accuracy                         |
 |----------------|-------------------------------|-----------------------------|
 ||`Random Forest Classifier`            | 68.983           |
-||`naive_bayes`            |057.657            |
+||`naive_bayes`            |57.657            |
 | |`linear_svm`|71.042|
 ||`logistic regression`            |70.656 |
 | |`Bag Of Words`|64.092|
